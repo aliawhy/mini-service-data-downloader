@@ -1,7 +1,7 @@
 {
   "_version": "20250925163424",
   "_fileName": "alili-xianlutong-station-graph.20250925163424.msgpack.zst",
-  "_fileName": "https://gitee.com/aliawhy/mini-service-data-downloader/raw/data_alili-xianlutong-station-graph/data/alili-xianlutong-station-graph.20250925163424.msgpack.zst",
+  "_dataUrl": "https://gitee.com/aliawhy/mini-service-data-downloader/raw/data_alili-xianlutong-station-graph/data/alili-xianlutong-station-graph.20250925163424.msgpack.zst",
   "stationTrains": {
     "start": 0,
     "end": 104772,
