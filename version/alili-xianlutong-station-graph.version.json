@@ -1,90 +1,90 @@
 {
-  "_version": "20250925163424",
-  "_fileName": "alili-xianlutong-station-graph.20250925163424.msgpack.zst",
-  "_dataUrl": "https://gitee.com/aliawhy/mini-service-data-downloader/raw/data_alili-xianlutong-station-graph/data/alili-xianlutong-station-graph.20250925163424.msgpack.zst",
+  "_version": "20260123045140",
+  "_fileName": "alili-xianlutong-station-graph.20260123045140.msgpack.zst",
+  "_dataUrl": "https://gitee.com/aliawhy/mini-service-data-downloader/raw/data_alili-xianlutong-station-graph/data/alili-xianlutong-station-graph.20260123045140.msgpack.zst",
   "stationTrains": {
     "start": 0,
-    "end": 104772,
-    "size": 104773
+    "end": 129948,
+    "size": 129949
   },
   "trainStations": {
-    "start": 104773,
-    "end": 205091,
-    "size": 100319
+    "start": 129949,
+    "end": 254044,
+    "size": 124096
   },
   "directGraph0": {
-    "start": 205092,
-    "end": 484148,
-    "size": 279057
+    "start": 254045,
+    "end": 617698,
+    "size": 363654
   },
   "directGraph1": {
-    "start": 484149,
-    "end": 751043,
-    "size": 266895
+    "start": 617699,
+    "end": 998351,
+    "size": 380653
   },
   "directGraph2": {
-    "start": 751044,
-    "end": 1095675,
-    "size": 344632
+    "start": 998352,
+    "end": 1366312,
+    "size": 367961
   },
   "directGraph3": {
-    "start": 1095676,
-    "end": 1358904,
-    "size": 263229
+    "start": 1366313,
+    "end": 1724848,
+    "size": 358536
   },
   "directGraph4": {
-    "start": 1358905,
-    "end": 1651701,
-    "size": 292797
+    "start": 1724849,
+    "end": 2075080,
+    "size": 350232
   },
   "connectionsMap0": {
-    "start": 1651702,
-    "end": 2082271,
-    "size": 430570
+    "start": 2075081,
+    "end": 2550720,
+    "size": 475640
   },
   "connectionsMap1": {
-    "start": 2082272,
-    "end": 2511021,
-    "size": 428750
+    "start": 2550721,
+    "end": 3024992,
+    "size": 474272
   },
   "connectionsMap2": {
-    "start": 2511022,
-    "end": 2944490,
-    "size": 433469
+    "start": 3024993,
+    "end": 3500600,
+    "size": 475608
   },
   "connectionsMap3": {
-    "start": 2944491,
-    "end": 3375761,
-    "size": 431271
+    "start": 3500601,
+    "end": 3969218,
+    "size": 468618
   },
   "connectionsMap4": {
-    "start": 3375762,
-    "end": 3800849,
-    "size": 425088
+    "start": 3969219,
+    "end": 4444535,
+    "size": 475317
   },
   "connectionsMap5": {
-    "start": 3800850,
-    "end": 4229277,
-    "size": 428428
+    "start": 4444536,
+    "end": 4919918,
+    "size": 475383
   },
   "connectionsMap6": {
-    "start": 4229278,
-    "end": 4659837,
-    "size": 430560
+    "start": 4919919,
+    "end": 5395151,
+    "size": 475233
   },
   "connectionsMap7": {
-    "start": 4659838,
-    "end": 5090328,
-    "size": 430491
+    "start": 5395152,
+    "end": 5861991,
+    "size": 466840
   },
   "connectionsMap8": {
-    "start": 5090329,
-    "end": 5513247,
-    "size": 422919
+    "start": 5861992,
+    "end": 6329692,
+    "size": 467701
   },
   "connectionsMap9": {
-    "start": 5513248,
-    "end": 5940882,
-    "size": 427635
+    "start": 6329693,
+    "end": 6807820,
+    "size": 478128
   }
 }
