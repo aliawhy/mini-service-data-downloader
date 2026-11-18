@@ -1,0 +1,13 @@
+{
+  "source": {
+    "sha256": "c44610caca476a0f9350598dcfefc653ef611aad3c88d637a3afd220f8b26b77",
+    "headFingerprint": "508eda3a6310fcc929477c220757eecf7de68a94986ceeac6195ca834bf0f46c",
+    "checkedAt": "2026-11-18T22:54:58.089Z"
+  },
+  "bin": {
+    "fileName": "alili-xianlutong-all-train-off-line.msgpack.zst",
+    "sha256": "d6f6b26e0ebb54a2fb737b8f90819eff609b272e032d1ac55a2d2d519629221a",
+    "builtAt": "2026-11-18T22:54:58.090Z",
+    "trainCount": 14627
+  }
+}
