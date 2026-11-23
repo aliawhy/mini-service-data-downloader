@@ -1,13 +1,13 @@
 {
   "source": {
-    "sha256": "c44610caca476a0f9350598dcfefc653ef611aad3c88d637a3afd220f8b26b77",
-    "headFingerprint": "508eda3a6310fcc929477c220757eecf7de68a94986ceeac6195ca834bf0f46c",
-    "checkedAt": "2026-11-18T22:54:58.089Z"
+    "sha256": "0b255ffc1b2ed4e30d2c0659b4c4632ec3de8849197584b045e10576599a22b8",
+    "headFingerprint": "2f76a5c3343b364d59923493ccd60458c4e5aa96d7f1cd6521b10bff5cf9d85f",
+    "checkedAt": "2026-11-23T21:35:03.199Z"
   },
   "bin": {
     "fileName": "alili-xianlutong-all-train-off-line.msgpack.zst",
-    "sha256": "d6f6b26e0ebb54a2fb737b8f90819eff609b272e032d1ac55a2d2d519629221a",
-    "builtAt": "2026-11-18T22:54:58.090Z",
-    "trainCount": 14627
+    "sha256": "0b67a2ec4ff4418fb17c2d19c71ee9109a0829df0c9e28e3c3fee48a6cda20d6",
+    "builtAt": "2026-11-23T21:35:03.199Z",
+    "trainCount": 14788
   }
 }
